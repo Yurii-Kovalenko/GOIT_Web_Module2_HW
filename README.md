@@ -1,4 +1,4 @@
-﻿# GOIT_Web_Module1_HW
+﻿# GOIT_Web_Module2_HW
 
 ## Project name: My assistant
 
